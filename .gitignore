@@ -1,12 +1,12 @@
-web/sites/defualt/files
+/web/sites/defualt/files
 
-web/sites/default/settings.php
+/web/sites/default/settings.php
 
-web/modules/contrib
+/web/modules/contrib
 
-web/themes/
+/web/themes/
 
-web/profiles/
+/web/profiles
 
-vendor
+/vendor
 
